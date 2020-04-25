@@ -1,0 +1,35 @@
+body {
+    font-family: "Montserrat";
+}
+
+
+.navbar {
+    border-bottom: 1px solid #EAEAEA;
+}
+
+.nav-item {
+    margin-right: 30px;
+    font-weight: 400;
+}
+
+.nav-link {
+    color: #132272 !important;
+}
+
+.nav-item.active a {
+    color: #FF5D00 !important;
+}
+
+.judul {
+    margin-top: 100px;
+    font-weight: 400;
+}
+
+#sokamih {
+    font-weight: 400;
+    font-size: 40px;
+}
+
+#id {
+    border-radius: 90px;
+}
